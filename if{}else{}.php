@@ -1,3 +1,4 @@
+<?php 
 function eligeCarril($carriles)
 {
   if ($carriles <= 12){
