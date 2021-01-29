@@ -7,7 +7,7 @@
     Language:
     <input name="idioma" type="text">
     <br>
-    <input type="submit" value="Submit">
+    <input type="submit" value="Enviar">
   </form>
   <br>
     <p>Tu Idioma es: <?=$_GET['idioma'];?></p>
